@@ -239,7 +239,7 @@ receivers:
 
     pagerduty_configs:
 
-      - routing_key: "3d7d406e630d470ed0b9f7cc8accf95a"
+      - routing_key: "fea70865f5da460bc0ea973f565929ce"
         severity: "critical"
 EOF
 
